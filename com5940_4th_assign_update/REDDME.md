@@ -6,6 +6,3 @@ This is the login link: http://dev-sjj-website.pantheonsite.io/user
 
 Username: bernard Password: pass
 
-You can click this link: http://dev-sjj-website.pantheonsite.io/user#overlay=admin/structure/menu/manage/main-menu to change the menu.
-
-You can click this link: http://dev-sjj-website.pantheonsite.io/user#overlay=admin/content to change the content in the Internship part.
